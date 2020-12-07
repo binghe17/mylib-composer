@@ -18,9 +18,9 @@
         }
     ],
     "support": {
-        "email": "WsudoPHP@gmail.com",
-        "issues": "http://github.com/wsudo/SQLitePDO/issues",
-        "chat": "http://t.me/Wsudo"
+        "email": "binghe17@gmail.com",
+        "issues": "https://github.com/binghe17/mylib-composer/issues",
+        "chat": "https://t.me/binghe17"
     },
     "require": {
         "php": ">=5.3.0",
