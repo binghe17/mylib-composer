@@ -1,9 +1,13 @@
 {
     "name": "binghe17/mylib-composer",
     "description": "test mylib-composer",
+    "version": "0.0.1",
     "type": "library",
-    "keywords": ["php","util"],
-    "homepage": "https://github.com/binghe17/mylib-composer",
+    "time": "2020-12-07",
+    "keywords": [
+        "php util",
+        "SQLite PDO"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -13,9 +17,18 @@
             "role": "Developer"
         }
     ],
+    "support": {
+        "email": "WsudoPHP@gmail.com",
+        "issues": "http://github.com/wsudo/SQLitePDO/issues",
+        "chat": "http://t.me/Wsudo"
+    },
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "ext-pdo": ">=1.1"
     },
     "autoload": {
+        "psr-4": {
+            "Wsudo\\SQLitePDO\\": "src/"
+        }
     }
 }
