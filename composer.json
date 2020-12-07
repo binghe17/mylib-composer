@@ -19,8 +19,7 @@
     ],
     "support": {
         "email": "binghe17@gmail.com",
-        "issues": "https://github.com/binghe17/mylib-composer/issues",
-        "chat": "https://t.me/binghe17"
+        "issues": "https://github.com/binghe17/mylib-composer/issues"
     },
     "require": {
         "php": ">=5.6",
