@@ -22,7 +22,21 @@
         "issues": "https://github.com/binghe17/mylib-composer/issues"
     },
     "require": {
-        "php": ">=5.6",
+        "php": ">=5.3",
+        "ext-curl": "*",
         "slim/slim": "^3.12"
+    },
+    "require-dev": {
+        "ext-gd": "*",
+        "phpunit/phpunit": "*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "suggest": {
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Curl\\": "src/Curl/"
+        }
     }
 }
