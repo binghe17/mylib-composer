@@ -6,7 +6,7 @@ composer require binghe17/mylib-composer
 -----------
 
 composer.json
-`
+~~~
 {
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -14,6 +14,5 @@ composer.json
         "binghe17/mylib-composer": "*"
     }
 }
-
-`
+~~~
 
