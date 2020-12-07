@@ -23,7 +23,6 @@
         "chat": "https://t.me/binghe17"
     },
     "require": {
-        "php": ">=5.6",
-        "ext-pdo": ">=1.1"
+        "php": ">=5.6"
     }
 }
