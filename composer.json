@@ -2,7 +2,7 @@
     "name": "binghe17/mylib-composer",
     "description": "test mylib-composer",
     "version": "1.0.0",
-    "type": "library",
+    "type": "project",
     "time": "2020-12-7",
     "keywords": [
         "php utils",
