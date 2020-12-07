@@ -1,6 +1,7 @@
 {
     "name": "binghe17/mylib-composer",
     "description": "test mylib-composer",
+    "homepage": "https://github.com/binghe17/mylib-composer",
     "version": "1.0.0",
     "type": "library",
     "time": "2020-12-7",
