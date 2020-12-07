@@ -2,8 +2,7 @@
     "name": "binghe17/mylib-composer",
     "description": "test mylib-composer",
     "require": {
-        "Wsudo/SQLitePDO" : "*",
-        
+        "Wsudo/SQLitePDO" : "*"
     }
 }
 {
