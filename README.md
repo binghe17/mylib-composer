@@ -5,7 +5,7 @@ composer require binghe17/mylib-composer
 
 -----------
 
-composer.json
+1. make composer.json file
 ~~~
 {
     "minimum-stability": "dev",
@@ -15,4 +15,4 @@ composer.json
     }
 }
 ~~~
-
+2. cmd> composer i
