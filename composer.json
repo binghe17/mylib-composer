@@ -1,0 +1,30 @@
+{
+    "name": "binghe17/mylib-composer",
+    "description": "test mylib-composer",
+    "require": {
+        "Wsudo/SQLitePDO" : "*",
+        
+    }
+}
+{
+    "name": "binghe17/mylib-composer",
+    "description": "test mylib-composer",
+    "type": "library",
+    "keywords": ["php","util"],
+    "homepage": "https://github.com/binghe17/mylib-composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zun",
+            "email": "binghe17@gmail.com",
+            "homepage": "https://binghe17.github.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "Wsudo/SQLitePDO" : "*"
+    },
+    "autoload": {
+    }
+}
