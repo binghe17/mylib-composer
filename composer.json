@@ -4,7 +4,6 @@
     "version": "1.0.0",
     "type": "library",
     "time": "2020-12-7",
-    "homepage": "https://binghe17.github.io",
     "keywords": [
         "php utils",
         "SQLite PDO"
@@ -14,6 +13,8 @@
         {
             "name": "zun",
             "email": "binghe17@gmail.com"
+            "homepage": "https://binghe17.github.io",
+            "role": "Developer"
         }
     ],
     "support": {
