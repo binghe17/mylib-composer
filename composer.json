@@ -22,6 +22,9 @@
         "email": "binghe17@gmail.com",
         "issues": "https://github.com/binghe17/mylib-composer/issues"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
+        
     }
 }
