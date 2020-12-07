@@ -1,7 +1,7 @@
 {
     "name": "binghe17/mylib-composer",
     "description": "test mylib-composer",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "type": "library",
     "time": "2020-12-7",
     "keywords": [
