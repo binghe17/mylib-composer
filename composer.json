@@ -3,7 +3,7 @@
     "description": "test mylib-composer",
     "version": "0.0.1",
     "type": "library",
-    "time": "2020-12-07",
+    "time": "2020-12-7",
     "keywords": [
         "php utils",
         "SQLite PDO"
@@ -23,6 +23,7 @@
         "chat": "https://t.me/binghe17"
     },
     "require": {
-        "php": ">=5.6"
+        "php": ">=5.6",
+        "binghe17/mylib-composer"
     }
 }
