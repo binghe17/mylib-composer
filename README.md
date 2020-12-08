@@ -23,7 +23,7 @@ Your requirements could not be resolved to an installable set of packages.
     }
 }
 ~~~
-2. cmd> composer i
+2. cmd> composer u
 
 
 
