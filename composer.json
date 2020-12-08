@@ -1,28 +1,14 @@
 {
-    "name": "binghe17/mylib-composer",
-    "description": "test mylib-composer",
-    "homepage": "https://github.com/binghe17/mylib-composer",
-    "version": "1.0.0",
-    "type": "library",
-    "time": "2020-12-7",
-    "keywords": [
-        "php utils",
-        "SQLite PDO"
-    ],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "zun",
-            "email": "binghe17@gmail.com",
-            "homepage": "https://binghe17.github.io",
-            "role": "Developer"
-        }
-    ],
-    "support": {
-        "email": "binghe17@gmail.com",
-        "issues": "https://github.com/binghe17/mylib-composer/issues"
-    },
     "require": {
-        
+        "j4mie/idiorm": "*",
+        "j4mie/paris": "*",
+        "aimeos/map": "*",
+        "lodash-php/lodash-php": "*",
+        "nette/neon": "*",
+        "slim/slim": "^3.0",
+        "slim/views": "*",
+        "slim/twig-view": "*",
+        "bryanjhv/slim-session": "~3.0",
+        "webonyx/graphql-php": "*"
     }
-}
+} 
